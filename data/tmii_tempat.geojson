@@ -1,0 +1,96 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Museum Purna Bhakti Pertiwi",
+        "deskripsi": " Museum besar yang menyimpan benda dan karya seni yang terkait dengan mantan presiden Indonesia, Suharto.   ",
+        "gambar": "images/Museum-Purna-Bhakti-Pertiwi.png"
+      },
+      "geometry": {
+        "coordinates": [106.88729694751561, -6.300685212499545],
+        "type": "Point"
+      },
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Danau Archipelago",
+        "deskripsi": "danau yang memiliki pulau pulau seperti indonesia",
+        "gambar": "images/Danau-Archipelago.png"
+      },
+      "geometry": {
+        "coordinates": [106.8965842090164, -6.301857394873636],
+        "type": "Point"
+      },
+      "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Museum IPTEK - Indonesia Science Center",
+        "deskripsi": "Museum sains dan teknologi luas yang interaktif, dengan auditorium berkapasitas 130 orang.",
+        "gambar": "images/Museum-IPTEK.png"
+      },
+      "geometry": {
+        "coordinates": [106.90354961862863, -6.302225671576764],
+        "type": "Point"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Istana Anak-Anak Indonesia",
+        "deskripsi": "Istana Anak-Anak Indonesia adalah destinasi rekreasi dan edukasi di TMII. Bangunannya dirancang megah menyerupai istana dongeng (mirip Istana Cinderella) dengan menara tinggi. Fungsi utamanya adalah sebagai pusat bermain dan belajar bagi anak-anak. ",
+        "gambar": "images/Istana-Anak-Anak-Indonesia.png"
+      },
+      "geometry": {
+        "coordinates": [106.90022135964284, -6.302009686275184],
+        "type": "Point"
+      },
+      "id": 3
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Oakwood Hotel & Apartments Taman Mini Jakarta",
+        "deskripsi": "Akomodasi bintang 4 yang strategis, terletak di Pintu 1 TMII. Menawarkan kamar hotel dan apartemen dengan desain elegan.",
+        "gambar": "images/Oakwood-Hotel-Apartments-Taman-Mini-Jakarta.png"
+      },
+      "geometry": {
+        "coordinates": [106.88635033417205, -6.30313111961064],
+        "type": "Point"
+      },
+      "id": 4
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Parkir Bus",
+        "deskripsi": "Tempat Parkir Busa",
+        "gambar": "images/parkir-bus.png"
+      },
+      "geometry": {
+        "coordinates": [106.88877719350529, -6.304187770985564],
+        "type": "Point"
+      },
+      "id": 5
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nama": "Teater Keong Emas",
+        "deskripsi": "Teater IMAX lama yang menampilkan arsitektur & film unik tentang budaya Indonesia.",
+        "gambar": "images/teater-keong-emas.png"
+      },
+      "geometry": {
+        "coordinates": [106.89104072547667, -6.304423895711977],
+        "type": "Point"
+      },
+      "id": 6
+    }
+  ]
+}
