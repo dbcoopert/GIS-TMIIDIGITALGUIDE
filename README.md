@@ -1,7 +1,7 @@
 # 🗺 GIS Taman Mini Indonesia Indah Digital Guide
 
 Proyek ini merupakan tugas mata kuliah *Sistem Informasi Geografis (SIG)* semester 5 sesi 4 Universitas Nusa Putra.  
-Aplikasi ini menampilkan *GIS Taman Mini Indonesia Indah Digital Guide* menggunakan *Leaflet.js, *OpenStreetMap, dan *GeoJSON*.
+Aplikasi ini menampilkan *GIS Taman Mini Indonesia Indah Digital Guide* menggunakan *Leaflet.js*, *OpenStreetMap*, dan *GeoJSON*.
 
 
 ## ⚙ Status
@@ -26,3 +26,4 @@ Proyek masih dikembangkan *bertahap sesuai sesi perkuliahan*.
 - Sakalangit
 - Ahmad Ghifari
 - Dwiki Syahrur
+
