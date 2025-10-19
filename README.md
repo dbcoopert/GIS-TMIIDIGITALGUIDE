@@ -17,12 +17,12 @@ Proyek masih dikembangkan *bertahap sesuai sesi perkuliahan*.
 
 ## 🗺 Fitur
 - 2 Base Map: OSM & Satellite  
-- 3 Overlay: Marker (kantor desa), Polyline (jalan), Polygon (batas desa)  
+- 3 Overlay: Marker (tempat wisata), Polyline (jalur), Polygon (batas taman tmii)  
 - Layer control interaktif 
 - popup & tooltip
 
 ## Anggota Kelompok
 - Asep Mardianto
 - Sakalangit
-- Ahmad Ghifarigit 
+- Ahmad Ghifari
 - Dwiki Syahrur
